@@ -1,5 +1,5 @@
 # Deploy a containerized web app with Terraform and ECS
-IaaS case study: create an aws ecs cluster for publishing a containerized web app (with Terraform) 🤖 👷 ☁️
+Create an aws ecs cluster for publishing a containerized web app (with Terraform) 🤖 👷 ☁️
 
 ## Terraform
 
