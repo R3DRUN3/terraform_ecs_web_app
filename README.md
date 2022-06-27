@@ -1,4 +1,7 @@
 # Deploy a containerized web app with Terraform and ECS
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Create an aws ecs cluster for publishing a containerized web app (with Terraform) 🤖 👷 ☁️
 
 ## Terraform
